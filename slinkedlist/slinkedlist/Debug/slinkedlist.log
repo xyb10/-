@@ -1,0 +1,6 @@
+﻿  slinkedlist.c
+D:\c语言代码\slinkedlist\slinkedlist\slinkedlist.c(100,3): warning C4033: “slinkedlist_get”必须返回值
+D:\c语言代码\slinkedlist\slinkedlist\slinkedlist.c(118,12): warning C4047: “return”:“int”与“slinkedlist_node *”的间接级别不同
+D:\c语言代码\slinkedlist\slinkedlist\slinkedlist.c(122,13): warning C4047: “return”:“int”与“void *”的间接级别不同
+D:\c语言代码\slinkedlist\slinkedlist\slinkedlist.c(108): warning C4715: “slinkedlist_get”: 不是所有的控件路径都返回值
+  slinkedlist.vcxproj -> D:\c语言代码\slinkedlist\Debug\slinkedlist.exe

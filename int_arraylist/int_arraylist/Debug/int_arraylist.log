@@ -1,0 +1,10 @@
+﻿  int_arraylist.c
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.h(3,1): warning C4005: “LIST_INIT_SIZE”: 宏重定义
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.h(2): message : 参见“LIST_INIT_SIZE”的前一个定义
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.c(42,10): warning C4098: “int_arraylist_set”:“void”函数返回值
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.c(59,12): warning C4098: “int_arraylist_add”:“void”函数返回值
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.c(76,12): warning C4098: “int_arraylist_remove”:“void”函数返回值
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.c(81,12): warning C4098: “int_arraylist_remove”:“void”函数返回值
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.c(90,14): warning C4098: “int_arraylist_remove”:“void”函数返回值
+C:\Users\云深不知处\source\repos\int_arraylist\int_arraylist\int_arraylist.c(116,10): warning C4098: “int_arraylist_merge”:“void”函数返回值
+  int_arraylist.vcxproj -> C:\Users\云深不知处\source\repos\int_arraylist\Debug\int_arraylist.exe

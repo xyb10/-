@@ -1,0 +1,9 @@
+﻿D:\vs2019-community\vs2019-IDE\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(complex.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  complex.c
+  main.c
+C:\Users\云深不知处\source\repos\complex\complex\main.c(8,30): warning C4305: “函数”: 从“double”到“float”截断
+C:\Users\云深不知处\source\repos\complex\complex\main.c(9,30): warning C4305: “函数”: 从“double”到“float”截断
+C:\Users\云深不知处\source\repos\complex\complex\main.c(11,30): warning C4305: “函数”: 从“double”到“float”截断
+C:\Users\云深不知处\source\repos\complex\complex\main.c(12,31): warning C4305: “函数”: 从“double”到“float”截断
+  正在生成代码...
+  complex.vcxproj -> C:\Users\云深不知处\source\repos\complex\Debug\complex2.exe
